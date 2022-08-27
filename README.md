@@ -3,7 +3,7 @@
 Computing and Artificial Intelligence for industry.
 - 🌱 I’m interested in several themes in computer science as : DataScience , IA and ML 
 - 💞️ I am currently looking for an industrial partner to engage with to finance HPC-IA training.
-- 📫 How to reach me: through my github account : https://github.com/SalmaElhassika or my email : salmaelhassika10@gmail.com
+- 📫 How to reach me: through my github account : https://github.com/SalmaElhassika or my email : salma.elhassika@etu.minesparis.psl.eu
 
 <!---
 SalmaElhassika/SalmaElhassika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
